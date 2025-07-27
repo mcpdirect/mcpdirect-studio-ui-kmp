@@ -3,7 +3,7 @@
 ## Quick Start
 
 ### Prepare
-1.  Download MCPdirect Studio App from ...
+1.  Download MCPdirect Studio App from [Release Page](https://github.com/mcpdirect/mcpdirect-studio-ui-kmp/releases/tag/pre-release) 
 2.  Anonymous sign in
 
 ### 3 Steps to Enable Any Agent to Securely Connect to Your MCP Servers
