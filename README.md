@@ -1,6 +1,6 @@
 ![MCPdirect Studio](assets/images/mcpdirect_studio_256.png)
 # MCPdirect: Connect your home/office MCP servers directly to AI agents worldwide
-
+![mcpdirect_diagram.png](assets/images/mcpdirect_diagram.png)
 ## Quick Start
 
 ### Prepare
@@ -13,7 +13,6 @@
 2.  **Create a Key:** Generate a secure key for the AI Agent and copy the generated configuration.
 3.  **Configure the Agent:** Paste the copied configuration into your Agent's MCP server settings.
 
-![mcpdirect_diagram.png](assets/images/mcpdirect_diagram.png)
 ---
 
 ## Overview
