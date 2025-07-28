@@ -7,7 +7,7 @@
 1.  Download MCPdirect Studio App from [Release Page](https://github.com/mcpdirect/mcpdirect-studio-ui-kmp/releases/tag/pre-release) 
 2.  Anonymous sign in
 
-### 3 Steps to Enable Any Agent to Securely Connect to Your MCP Servers
+### Three steps to Enable Any Agent to Securely Connect to Your MCP Servers
 
 1.  **Add a MCP Server:** In the MCPdirect Studio App, add your local or cloud-based MCP server and publish it to MCPdirect.
 2.  **Create a Key:** Generate a secure key for the AI Agent and copy the generated configuration.
