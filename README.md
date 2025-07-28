@@ -17,14 +17,11 @@
 
 ## Overview
 
-MCPdirect Studio is a desktop application built with Kotlin and Jetpack Compose for Desktop. It provides developers with a comprehensive suite of tools to connect, manage, and monitor "MCP" (Model-View-Controller Platform) servers. The application simplifies the workflow for tasks such as logging, permission management, and API key administration.
-
 ## Features
 
 * **Connect MCP:** The core feature of the application, allowing users to add, monitor, and manage MCP servers. It supports both "stdio" and "sse" server types.
 * **Agent Keys:** Manage API keys for connecting to MCP servers. Users can generate, view, enable/disable, and revoke keys.
 * **Tool Permission:** Fine-grained permission control for each API key, allowing users to specify which tools a key can access.
-* **Offline Key Persistence:** Keys generated while offline remain valid and can be used seamlessly after you register or sign in to an account.
 * **Multi-Device Support:** A single key can be used to connect and authenticate from multiple different devices or AI agents simultaneously.
 * **Tools Logbook:** Logs the usage of various tools, providing insights from both "manufacturer" and "agent" perspectives.
 * **Settings:**
@@ -50,7 +47,6 @@ MCPdirect Studio is a desktop application built with Kotlin and Jetpack Compose 
 
 * **Language:** Kotlin
 * **UI Framework:** Jetpack Compose for Desktop
-* **Architecture:** Model-View-ViewModel (MVVM)
 
 ## Roadmap
 
@@ -60,8 +56,5 @@ MCPdirect Studio is a desktop application built with Kotlin and Jetpack Compose 
 
 ## Contributing
 
-We welcome contributions! Please see our `CONTRIBUTING.md` for details on how to get started.
-
 ## License
 
-**(This section can be filled in with the project's license information.)**# mcpdirect-studio-ui-kmp
