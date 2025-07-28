@@ -1,5 +1,5 @@
 ![MCPdirect Studio](assets/images/mcpdirect_studio_256.png)
-# MCPdirect: Connect your home/office MCP servers directly to AI agents worldwide
+# MCPdirect: Connect your MCP servers anywhere directly to AI agents worldwide
 ![mcpdirect_diagram.png](assets/images/mcpdirect_diagram.png)
 ## Quick Start
 
