@@ -14,11 +14,11 @@
 3.  **Configure the Agent:** Paste the copied configuration into your Agent's MCP server settings.
 
 ### Config in AI Agent
-- [<img height="24px" src="assets/images/logo/coze_space.svg" alt="Coze Space">](https://space.coze.cn/)
-- [<img height="24px" src="https://img.alicdn.com/imgextra/i2/O1CN01BttLIk1JTn0mP2a3x_!!6000000001030-2-tps-321-96.png"> Qwen macOS](https://qwen.ai/download) 
-- [<img height="24px" src="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/a3b4421c99292fe5e097.png"> Tencent Yuanqi](https://yuanqi.tencent.com/) 
-- [<img height="24px" src="assets/images/logo/dify.svg"> Dify](https://cloud.dify.ai/)
-- [<img height="24px" src="assets/images/logo/claude.svg"> Claude](https://claude.ai/download)
+- # [<img height="24px" src="assets/images/logo/coze_space.svg"> Coze Space](https://space.coze.cn/)
+- # [<img height="24px" src="https://img.alicdn.com/imgextra/i2/O1CN01BttLIk1JTn0mP2a3x_!!6000000001030-2-tps-321-96.png"></img> Qwen macOS](https://qwen.ai/download) 
+- # [<img height="24px" src="https://open-agents-web-cdn-prd.hunyuan.tencent.com/public/a3b4421c99292fe5e097.png"> Tencent Yuanqi](https://yuanqi.tencent.com/) 
+- # [<img height="24px" src="assets/images/logo/dify.svg"> Dify](https://cloud.dify.ai/)
+- # [<img height="24px" src="assets/images/logo/claude.svg"> Claude](https://claude.ai/download)
 ---
 
 ## Overview
